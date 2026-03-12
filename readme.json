@@ -65,7 +65,7 @@
             "last_commit": "2024-11-15T07:09:42Z",
             "owner": "arialdomartini",
             "repo": "Back-End-Developer-Interview-Questions",
-            "stars": 16590
+            "stars": 16593
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2024-07-15T08:04:08Z",
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23482
+            "stars": 23499
           }
         },
         {
@@ -163,7 +163,7 @@
             "last_commit": "2024-07-29T14:21:23Z",
             "owner": "DopplerHQ",
             "repo": "awesome-interview-questions",
-            "stars": 81357
+            "stars": 81366
           }
         }
       ],
@@ -182,7 +182,7 @@
             "last_commit": "2026-02-06T05:42:14Z",
             "owner": "dwmkerr",
             "repo": "hacker-laws",
-            "stars": 27015
+            "stars": 27016
           }
         },
         {
@@ -292,7 +292,7 @@
             "last_commit": "2024-07-01T15:25:07Z",
             "owner": "ProductHired",
             "repo": "open-product-management",
-            "stars": 4239
+            "stars": 4240
           }
         },
         {
@@ -320,7 +320,7 @@
             "last_commit": "2024-06-13T12:41:55Z",
             "owner": "hakluke",
             "repo": "how-to-exit-vim",
-            "stars": 7167
+            "stars": 7168
           }
         }
       ],
@@ -353,7 +353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-11T04:08:51.436Z",
+    "last_updated": "2026-03-12T04:13:02.540Z",
     "original_repository": "kdeldycke/awesome-engineering-team-management",
     "source_repository": "v1nvn/enhansome-engineering-team-management",
     "source_repository_description": null,
