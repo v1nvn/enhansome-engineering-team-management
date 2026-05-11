@@ -21,7 +21,7 @@
   — Tom DeMarco<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
 
-A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 464,636 | 🐛 73 | 📅 2026-05-05 list **for software developers to transition to an engineering management role**. Compiles advice, anecdotes, knowledge tidbits, discussions, industry small-talks and rants. A bibliography of sort, gathered the last few years while [transitioning my career from a software engineer to an engineer's manager](https://devtomanager.com/interviews/kevin-deldycke/). And later from a manager to a manager's managers (you all love recursion right? ʘ‿ʘ).
+A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 465,043 | 🐛 73 | 📅 2026-05-05 list **for software developers to transition to an engineering management role**. Compiles advice, anecdotes, knowledge tidbits, discussions, industry small-talks and rants. A bibliography of sort, gathered the last few years while [transitioning my career from a software engineer to an engineer's manager](https://devtomanager.com/interviews/kevin-deldycke/). And later from a manager to a manager's managers (you all love recursion right? ʘ‿ʘ).
 
 * You're a developer and wonders what it feels like to be a manager?
 * You just started your first position as the leader of a team?
@@ -156,7 +156,7 @@ You got the title and the pay grade. Congratulation! This doesn't make you a man
 
 * [What Google Learned From Its Quest to Build the Perfect Team](https://web.archive.org/web/20250601205421/https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - “Google's data indicated that psychological safety, more than anything else, was critical to making a team work. (…) The behaviors that create psychological safety — conversational turn-taking and empathy — are part of the same unwritten rules we often turn to, as individuals, when we need to establish a bond.”
 
-* [Paper we love: Software Engineering Organizations](https://github.com/papers-we-love/papers-we-love/tree/master/software_engineering_orgs) ⭐ 106,033 | 🐛 3 | 🌐 Shell | 📅 2026-05-07 - “The practice of software engineering, and its history is, itself, a complex study in humanity, coordination, and communication.”
+* [Paper we love: Software Engineering Organizations](https://github.com/papers-we-love/papers-we-love/tree/master/software_engineering_orgs) ⭐ 106,065 | 🐛 3 | 🌐 Shell | 📅 2026-05-07 - “The practice of software engineering, and its history is, itself, a complex study in humanity, coordination, and communication.”
 
 * [Developer Tropes: "Google does it"](https://tomaytotomato.com/developer-tropes-2/) - It's [cargo-cultish](https://en.wikipedia.org/wiki/Cargo_cult) to imitate the big names in our industry as a path to success. Instead, the take home from this article “would be that managers and other leaders should be like ecologists; who measure, observe and nurture their ecosystems. Doing so will help build a unique workplace that will yield great results.”
 
@@ -276,9 +276,9 @@ You're in a competitive sector in which talents are in high demand. Be prepared 
 
 By targeting the right place to post your job offer to, you're increasing your chances of targeting the right candidates.
 
-* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) ⭐ 50,599 | 🐛 38 | 🌐 JavaScript | 📅 2026-02-27 - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
+* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) ⭐ 50,601 | 🐛 38 | 🌐 JavaScript | 📅 2026-02-27 - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
 
-* [Awesome Job Boards](https://github.com/tramcar/awesome-job-boards) ⭐ 1,728 | 🐛 9 | 📅 2026-04-20 - Niche job boards by domains, technology, roles and area.
+* [Awesome Job Boards](https://github.com/tramcar/awesome-job-boards) ⭐ 1,729 | 🐛 9 | 📅 2026-04-20 - Niche job boards by domains, technology, roles and area.
 
 ### Hiring Process
 
@@ -290,7 +290,7 @@ High-growth company will all need to industrialize the hiring process at one poi
 
 * [Job Interviewing Guide](https://www.homerun.co/artofwork/guides/job-interviewing) - A detailed description of a hiring process, a great source of inspiration for when your company gets big enough to start to formalize things up.
 
-* [Open Sourced Interview Process](https://github.com/cockroachlabs/open-sourced-interview-process) ⭐ 423 | 🐛 4 | 📅 2023-10-25 - Cockroach Labs published their process “to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions.”
+* [Open Sourced Interview Process](https://github.com/cockroachlabs/open-sourced-interview-process) ⭐ 424 | 🐛 4 | 📅 2023-10-25 - Cockroach Labs published their process “to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions.”
 
 * [Rethinking the Hiring Process](https://www.karllhughes.com/posts/rethinking-hiring) - “Testing programmers at something they aren't actually expected to be good at and expecting to learn something about how they would work at your company is delusional, and I think these kind of interviews only serve to make the hiring team feel smarter and ensure better outcomes for engineers with traditional CS backgrounds.”
 
@@ -298,9 +298,9 @@ High-growth company will all need to industrialize the hiring process at one poi
 
 List of questions that can be used when vetting potential candidates, and topics to draw inspiration from to be used as conversation starters.
 
-* [Reverse interview](https://github.com/viraptor/reverse-interview) ⭐ 28,530 | 🐛 23 | 📅 2025-02-19 - Questions to ask the company during your interview. Be prepared to answer them as a manager.
+* [Reverse interview](https://github.com/viraptor/reverse-interview) ⭐ 28,535 | 🐛 23 | 📅 2025-02-19 - Questions to ask the company during your interview. Be prepared to answer them as a manager.
 
-* [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) ⭐ 16,647 | 🐛 16 | 📅 2024-11-15 - A great source of inspiration.
+* [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) ⭐ 16,649 | 🐛 16 | 📅 2024-11-15 - A great source of inspiration.
 
 * [The Technical Interview is an Ego Trip](https://web.archive.org/web/20221101193146/https://kowsheek.com/the-technical-interview-is-an-ego-trip/) - Starts with anecdote of developers using a job interview as a vehicle to demonstrate their superiority. Then the author details a reasonable interview process that is trying to not waste anyone's time.
 
@@ -382,7 +382,7 @@ How to get newcomers up to speed with the rest of the team you manage. And how t
 
 ## Culture
 
-* [hacker-laws](https://github.com/dwmkerr/hacker-laws) ⭐ 27,094 | 🐛 148 | 🌐 HTML | 📅 2026-02-06 - Laws, Theories, Principles and Patterns that developers will find useful.
+* [hacker-laws](https://github.com/dwmkerr/hacker-laws) ⭐ 27,095 | 🐛 148 | 🌐 HTML | 📅 2026-02-06 - Laws, Theories, Principles and Patterns that developers will find useful.
 
 * [High Performance Organizations Reading List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List) ⭐ 1,263 | 🐛 3 | 📅 2026-04-01 - A list of books, web pages, and videos about how to design better organizations, divided into 3 categories: organization and motivation, health and wellness, and software development specific.
 
@@ -516,7 +516,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 * [Living with Complexity, by Donald A. Norman](https://www.amazon.com/Living-Complexity-Donald-Norman-2010/dp/B00DEKM5GK?_encoding=UTF8\&qid=1686404524\&sr=1-1\&linkCode=ll1\&tag=kevideld-20\&linkId=497ae387bbd398624d897bdfbf90f7b6\&language=en_US\&ref_=as_li_ss_tl) - In which we learn that, based on [Tesler's law of the conservation of complexity](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity), “the total complexity of a system is a constant: as you make the person's interaction simpler, the hidden complexity behind the scenes increases. Make one part of the system simpler, said Tesler, and the rest of the system gets more complex.”
 
-* [The Efficiency-Destroying Magic of Tidying Up](https://flocrivello.com/the-efficiency-destroying-magic-of-tidying-up/) - “Efficiency tends to look messy, and good looks tend to be inefficient.” A reminder that sometimes we should just accept [the messiness of the world](https://github.com/kdeldycke/awesome-falsehood) ⭐ 27,345 | 🐛 3 | 📅 2026-04-27.
+* [The Efficiency-Destroying Magic of Tidying Up](https://flocrivello.com/the-efficiency-destroying-magic-of-tidying-up/) - “Efficiency tends to look messy, and good looks tend to be inefficient.” A reminder that sometimes we should just accept [the messiness of the world](https://github.com/kdeldycke/awesome-falsehood) ⭐ 27,348 | 🐛 3 | 📅 2026-04-27.
 
 * [I try to optimize my code around reducing state, coupling, complexity and code, in that order](https://news.ycombinator.com/item?id=11042400) - An engineer's perspective on which priorities should be addressed first to increase robustness of systems.
 
@@ -576,7 +576,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 * [A guide to distributed teams](https://increment.com/teams/a-guide-to-distributed-teams/) - A nice wrap up on the numerous dispositions required to have a highly effective distributed team.
 
-* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 45,646 | 🐛 14 | 📅 2026-05-08 - Resources on working remotely, including job boards, coworking spaces, and a list of companies embracing the culture.
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 45,673 | 🐛 14 | 📅 2026-05-08 - Resources on working remotely, including job boards, coworking spaces, and a list of companies embracing the culture.
 
 ## Meetings
 
@@ -626,7 +626,7 @@ The Product Manager is supposed to be the *voice of the market*. Here are more l
 
 * [Open Product Management](https://github.com/tron1991/open-product-management) ⭐ 4,327 | 🐛 14 | 📅 2024-07-01 - Resources, interviews, case studies, sample products & projects, communities, open source tools, free & paid services on product management, for technical people to learn the field.
 
-* [Awesome Product Management](https://github.com/dend/awesome-product-management) ⭐ 2,137 | 🐛 82 | 🌐 CSS | 📅 2026-02-08 - A reference. All the missing pieces are found below.
+* [Awesome Product Management](https://github.com/dend/awesome-product-management) ⭐ 2,140 | 🐛 83 | 🌐 CSS | 📅 2026-02-08 - A reference. All the missing pieces are found below.
 
 * “You're the broker for a lot of unstructured information and have to fend off all kinds of disruptive influences to land even close to where you're trying to go.” ([source](https://news.ycombinator.com/item?id=19050555))
 

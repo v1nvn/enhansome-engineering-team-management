@@ -23,7 +23,7 @@
             "last_commit": "2026-04-20T13:14:02Z",
             "owner": "tramcar",
             "repo": "awesome-job-boards",
-            "stars": 1728
+            "stars": 1729
           }
         },
         {
@@ -36,7 +36,7 @@
             "last_commit": "2026-02-27T02:58:49Z",
             "owner": "poteto",
             "repo": "hiring-without-whiteboards",
-            "stars": 50599
+            "stars": 50601
           }
         }
       ],
@@ -65,7 +65,7 @@
             "last_commit": "2024-11-15T07:09:42Z",
             "owner": "arialdomartini",
             "repo": "Back-End-Developer-Interview-Questions",
-            "stars": 16647
+            "stars": 16649
           }
         },
         {
@@ -78,7 +78,7 @@
             "last_commit": "2025-02-19T22:41:18Z",
             "owner": "viraptor",
             "repo": "reverse-interview",
-            "stars": 28530
+            "stars": 28535
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2024-07-29T14:21:23Z",
             "owner": "DopplerHQ",
             "repo": "awesome-interview-questions",
-            "stars": 82446
+            "stars": 82473
           }
         }
       ],
@@ -169,7 +169,7 @@
             "last_commit": "2026-02-06T05:42:14Z",
             "owner": "dwmkerr",
             "repo": "hacker-laws",
-            "stars": 27094
+            "stars": 27095
           }
         },
         {
@@ -266,7 +266,7 @@
             "last_commit": "2026-02-08T02:36:12Z",
             "owner": "dend",
             "repo": "awesome-product-management",
-            "stars": 2137
+            "stars": 2140
           }
         },
         {
@@ -340,7 +340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-10T05:35:56.670Z",
+    "last_updated": "2026-05-11T05:57:07.483Z",
     "original_repository": "kdeldycke/awesome-engineering-team-management",
     "source_repository": "v1nvn/enhansome-engineering-team-management",
     "source_repository_description": null,
