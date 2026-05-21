@@ -36,7 +36,7 @@
             "last_commit": "2026-02-27T02:58:49Z",
             "owner": "poteto",
             "repo": "hiring-without-whiteboards",
-            "stars": 50621
+            "stars": 50624
           }
         }
       ],
@@ -78,7 +78,7 @@
             "last_commit": "2025-02-19T22:41:18Z",
             "owner": "viraptor",
             "repo": "reverse-interview",
-            "stars": 28540
+            "stars": 28538
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2024-07-29T14:21:23Z",
             "owner": "DopplerHQ",
             "repo": "awesome-interview-questions",
-            "stars": 82645
+            "stars": 82650
           }
         }
       ],
@@ -169,7 +169,7 @@
             "last_commit": "2026-05-19T06:22:17Z",
             "owner": "dwmkerr",
             "repo": "hacker-laws",
-            "stars": 27140
+            "stars": 27144
           }
         },
         {
@@ -266,7 +266,7 @@
             "last_commit": "2026-02-08T02:36:12Z",
             "owner": "dend",
             "repo": "awesome-product-management",
-            "stars": 2151
+            "stars": 2155
           }
         },
         {
@@ -307,7 +307,7 @@
             "last_commit": "2026-03-14T12:10:29Z",
             "owner": "hakluke",
             "repo": "how-to-exit-vim",
-            "stars": 7191
+            "stars": 7190
           }
         }
       ],
@@ -340,7 +340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-20T06:05:33.887Z",
+    "last_updated": "2026-05-21T06:08:40.721Z",
     "original_repository": "kdeldycke/awesome-engineering-team-management",
     "source_repository": "v1nvn/enhansome-engineering-team-management",
     "source_repository_description": null,
