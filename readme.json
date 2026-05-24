@@ -23,7 +23,7 @@
             "last_commit": "2026-04-20T13:14:02Z",
             "owner": "tramcar",
             "repo": "awesome-job-boards",
-            "stars": 1732
+            "stars": 1733
           }
         },
         {
@@ -36,7 +36,7 @@
             "last_commit": "2026-02-27T02:58:49Z",
             "owner": "poteto",
             "repo": "hiring-without-whiteboards",
-            "stars": 50631
+            "stars": 50635
           }
         }
       ],
@@ -65,7 +65,7 @@
             "last_commit": "2024-11-15T07:09:42Z",
             "owner": "arialdomartini",
             "repo": "Back-End-Developer-Interview-Questions",
-            "stars": 16661
+            "stars": 16662
           }
         },
         {
@@ -78,7 +78,7 @@
             "last_commit": "2025-02-19T22:41:18Z",
             "owner": "viraptor",
             "repo": "reverse-interview",
-            "stars": 28538
+            "stars": 28537
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2024-07-15T08:04:08Z",
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23664
+            "stars": 23660
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2024-07-29T14:21:23Z",
             "owner": "DopplerHQ",
             "repo": "awesome-interview-questions",
-            "stars": 82689
+            "stars": 82712
           }
         }
       ],
@@ -169,7 +169,7 @@
             "last_commit": "2026-05-19T06:22:17Z",
             "owner": "dwmkerr",
             "repo": "hacker-laws",
-            "stars": 27144
+            "stars": 27145
           }
         },
         {
@@ -266,7 +266,7 @@
             "last_commit": "2026-02-08T02:36:12Z",
             "owner": "dend",
             "repo": "awesome-product-management",
-            "stars": 2161
+            "stars": 2164
           }
         },
         {
@@ -340,7 +340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-23T05:38:03.523Z",
+    "last_updated": "2026-05-24T05:59:55.713Z",
     "original_repository": "kdeldycke/awesome-engineering-team-management",
     "source_repository": "v1nvn/enhansome-engineering-team-management",
     "source_repository_description": null,
