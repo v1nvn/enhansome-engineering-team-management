@@ -23,7 +23,7 @@
             "last_commit": "2026-04-20T13:14:02Z",
             "owner": "tramcar",
             "repo": "awesome-job-boards",
-            "stars": 1733
+            "stars": 1734
           }
         },
         {
@@ -36,7 +36,7 @@
             "last_commit": "2026-02-27T02:58:49Z",
             "owner": "poteto",
             "repo": "hiring-without-whiteboards",
-            "stars": 50635
+            "stars": 50644
           }
         }
       ],
@@ -65,7 +65,7 @@
             "last_commit": "2024-11-15T07:09:42Z",
             "owner": "arialdomartini",
             "repo": "Back-End-Developer-Interview-Questions",
-            "stars": 16662
+            "stars": 16665
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2024-07-15T08:04:08Z",
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23660
+            "stars": 23662
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2024-07-29T14:21:23Z",
             "owner": "DopplerHQ",
             "repo": "awesome-interview-questions",
-            "stars": 82712
+            "stars": 82729
           }
         }
       ],
@@ -169,7 +169,7 @@
             "last_commit": "2026-05-19T06:22:17Z",
             "owner": "dwmkerr",
             "repo": "hacker-laws",
-            "stars": 27145
+            "stars": 27148
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-04-01T15:46:09Z",
             "owner": "pdfernhout",
             "repo": "High-Performance-Organizations-Reading-List",
-            "stars": 1263
+            "stars": 1264
           }
         },
         {
@@ -340,7 +340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-24T05:59:55.713Z",
+    "last_updated": "2026-05-25T06:25:42.647Z",
     "original_repository": "kdeldycke/awesome-engineering-team-management",
     "source_repository": "v1nvn/enhansome-engineering-team-management",
     "source_repository_description": null,
