@@ -21,7 +21,7 @@
   — Tom DeMarco<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
 
-A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 471,566 | 🐛 81 | 📅 2026-05-05 list **for software developers to transition to an engineering management role**. Compiles advice, anecdotes, knowledge tidbits, discussions, industry small-talks and rants. A bibliography of sort, gathered the last few years while [transitioning my career from a software engineer to an engineer's manager](https://devtomanager.com/interviews/kevin-deldycke/). And later from a manager to a manager's managers (you all love recursion right? ʘ‿ʘ).
+A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 471,889 | 🐛 83 | 📅 2026-05-05 list **for software developers to transition to an engineering management role**. Compiles advice, anecdotes, knowledge tidbits, discussions, industry small-talks and rants. A bibliography of sort, gathered the last few years while [transitioning my career from a software engineer to an engineer's manager](https://devtomanager.com/interviews/kevin-deldycke/). And later from a manager to a manager's managers (you all love recursion right? ʘ‿ʘ).
 
 * You're a developer and wonders what it feels like to be a manager?
 * You just started your first position as the leader of a team?
@@ -156,7 +156,7 @@ You got the title and the pay grade. Congratulation! This doesn't make you a man
 
 * [What Google Learned From Its Quest to Build the Perfect Team](https://web.archive.org/web/20250601205421/https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - “Google's data indicated that psychological safety, more than anything else, was critical to making a team work. (…) The behaviors that create psychological safety — conversational turn-taking and empathy — are part of the same unwritten rules we often turn to, as individuals, when we need to establish a bond.”
 
-* [Paper we love: Software Engineering Organizations](https://github.com/papers-we-love/papers-we-love/tree/master/software_engineering_orgs) ⭐ 106,660 | 🐛 2 | 🌐 Shell | 📅 2026-05-17 - “The practice of software engineering, and its history is, itself, a complex study in humanity, coordination, and communication.”
+* [Paper we love: Software Engineering Organizations](https://github.com/papers-we-love/papers-we-love/tree/master/software_engineering_orgs) ⭐ 106,691 | 🐛 2 | 🌐 Shell | 📅 2026-05-17 - “The practice of software engineering, and its history is, itself, a complex study in humanity, coordination, and communication.”
 
 * [Developer Tropes: "Google does it"](https://tomaytotomato.com/developer-tropes-2/) - It's [cargo-cultish](https://en.wikipedia.org/wiki/Cargo_cult) to imitate the big names in our industry as a path to success. Instead, the take home from this article “would be that managers and other leaders should be like ecologists; who measure, observe and nurture their ecosystems. Doing so will help build a unique workplace that will yield great results.”
 
@@ -226,7 +226,7 @@ Managers came in all form and shape, and the title and daily activities varies a
 
 * [100+ Lessons Learned for Project Managers](https://llis.nasa.gov/lesson/1956) - 122 aphorisms providind insights into NASA project management success. Covers design, decision-making, managing staff, working with superiors and contractors.
 
-* [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager) ⭐ 10,709 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-02 - Huge list, but need some curation.
+* [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager) ⭐ 10,710 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-02 - Huge list, but need some curation.
 
 * [A vitally important part of the job: being a crap shield](https://news.ycombinator.com/item?id=24802483) - “A lot of the work of an EM is wading into the slurry pit with a shovel so your team are free to get the job done”.
 
@@ -276,7 +276,7 @@ You're in a competitive sector in which talents are in high demand. Be prepared 
 
 By targeting the right place to post your job offer to, you're increasing your chances of targeting the right candidates.
 
-* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) ⭐ 50,810 | 🐛 13 | 🌐 JavaScript | 📅 2026-05-29 - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
+* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) ⭐ 50,818 | 🐛 13 | 🌐 JavaScript | 📅 2026-05-29 - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
 
 * [Awesome Job Boards](https://github.com/tramcar/awesome-job-boards) ⭐ 1,742 | 🐛 18 | 📅 2026-04-20 - Niche job boards by domains, technology, roles and area.
 
@@ -290,7 +290,7 @@ High-growth company will all need to industrialize the hiring process at one poi
 
 * [Job Interviewing Guide](https://www.homerun.co/artofwork/guides/job-interviewing) - A detailed description of a hiring process, a great source of inspiration for when your company gets big enough to start to formalize things up.
 
-* [Open Sourced Interview Process](https://github.com/cockroachlabs/open-sourced-interview-process) ⭐ 423 | 🐛 4 | 📅 2023-10-25 - Cockroach Labs published their process “to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions.”
+* [Open Sourced Interview Process](https://github.com/cockroachlabs/open-sourced-interview-process) ⭐ 424 | 🐛 4 | 📅 2023-10-25 - Cockroach Labs published their process “to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions.”
 
 * [Rethinking the Hiring Process](https://www.karllhughes.com/posts/rethinking-hiring) - “Testing programmers at something they aren't actually expected to be good at and expecting to learn something about how they would work at your company is delusional, and I think these kind of interviews only serve to make the hiring team feel smarter and ensure better outcomes for engineers with traditional CS backgrounds.”
 
@@ -300,7 +300,7 @@ List of questions that can be used when vetting potential candidates, and topics
 
 * [Reverse interview](https://github.com/viraptor/reverse-interview) ⭐ 28,544 | 🐛 23 | 📅 2025-02-19 - Questions to ask the company during your interview. Be prepared to answer them as a manager.
 
-* [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) ⭐ 16,678 | 🐛 16 | 📅 2024-11-15 - A great source of inspiration.
+* [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) ⭐ 16,679 | 🐛 16 | 📅 2024-11-15 - A great source of inspiration.
 
 * [The Technical Interview is an Ego Trip](https://web.archive.org/web/20221101193146/https://kowsheek.com/the-technical-interview-is-an-ego-trip/) - Starts with anecdote of developers using a job interview as a vehicle to demonstrate their superiority. Then the author details a reasonable interview process that is trying to not waste anyone's time.
 
@@ -318,7 +318,7 @@ The absence of coding exercise will left the door open to fraud. OTOH, if elitis
 
 * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) ⚠️ Archived - A huge database of questions sorted by topic to get inspiration from.
 
-* [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,667 | 🐛 545 | 🌐 Java | 📅 2024-07-15 - A satire of over-engineering for the sake of enterprise-grade software.
+* [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,669 | 🐛 545 | 🌐 Java | 📅 2024-07-15 - A satire of over-engineering for the sake of enterprise-grade software.
 
 * [How to Freaking Find Great Developers By Having Them Read Code](https://web.archive.org/web/20230416055512/https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/) - “Instead of writing code, consider having the candidate read existing code and talk about how it works. 1) Reading code is 95% of what a developer does as part of their job. 2) A candidate can tell you a lot about their programming skill in the first five minutes of reading. 3) Stress is your enemy because it raises adrenaline which lowers IQ by several points, causing you to miss good candidates.”
 
@@ -382,7 +382,7 @@ How to get newcomers up to speed with the rest of the team you manage. And how t
 
 ## Culture
 
-* [hacker-laws](https://github.com/dwmkerr/hacker-laws) ⭐ 27,151 | 🐛 150 | 🌐 HTML | 📅 2026-05-19 - Laws, Theories, Principles and Patterns that developers will find useful.
+* [hacker-laws](https://github.com/dwmkerr/hacker-laws) ⭐ 27,154 | 🐛 150 | 🌐 HTML | 📅 2026-05-19 - Laws, Theories, Principles and Patterns that developers will find useful.
 
 * [High Performance Organizations Reading List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List) ⭐ 1,264 | 🐛 3 | 📅 2026-04-01 - A list of books, web pages, and videos about how to design better organizations, divided into 3 categories: organization and motivation, health and wellness, and software development specific.
 
@@ -424,7 +424,7 @@ Expansive lists of well-known models and concepts.
 
 * [A Few Rules](https://www.collaborativefund.com/blog/a-few-rules/) - A formalized list of some wisdom you probably encountered elsewhere.
 
-* [Awesome Concepts](https://github.com/lukasz-madon/awesome-concepts) ⭐ 618 | 🐛 3 | 📅 2024-03-04 - Laws, principles, mental models and cognitive biases.
+* [Awesome Concepts](https://github.com/lukasz-madon/awesome-concepts) ⭐ 619 | 🐛 3 | 📅 2024-03-04 - Laws, principles, mental models and cognitive biases.
 
 * [UX Core](https://keepsimple.io/uxcore) - 105 cognitive biases with simple descriptions, brief and detailed examples.
 
@@ -576,7 +576,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 * [A guide to distributed teams](https://increment.com/teams/a-guide-to-distributed-teams/) - A nice wrap up on the numerous dispositions required to have a highly effective distributed team.
 
-* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 46,041 | 🐛 30 | 📅 2026-05-08 - Resources on working remotely, including job boards, coworking spaces, and a list of companies embracing the culture.
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 46,055 | 🐛 30 | 📅 2026-05-08 - Resources on working remotely, including job boards, coworking spaces, and a list of companies embracing the culture.
 
 ## Meetings
 
@@ -596,7 +596,7 @@ The most important meetings you'll have are frequent 1:1s with your direct repor
 
 * [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/) - A personal list of high-level questions from a manager.
 
-* [1 on 1 Meeting Questions](https://github.com/VGraupera/1on1-questions) ⭐ 9,619 | 🐛 3 | 🌐 JavaScript | 📅 2023-03-18 - A mega list in which most of them are great starters for conversation, some others are clearly bad ideas. A great source of inspiration nonetheless, but choose carefully.
+* [1 on 1 Meeting Questions](https://github.com/VGraupera/1on1-questions) ⭐ 9,618 | 🐛 3 | 🌐 JavaScript | 📅 2023-03-18 - A mega list in which most of them are great starters for conversation, some others are clearly bad ideas. A great source of inspiration nonetheless, but choose carefully.
 
 ### Standups
 
@@ -624,9 +624,9 @@ The Product Manager is supposed to be the *voice of the market*. Here are more l
 
 * [How to exit vim, the Product Manager way](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) ⭐ 7,194 | 🐛 103 | 📅 2026-03-14 - A satire with a grain of truth, especially the comparison between the basic vs experienced level.
 
-* [Open Product Management](https://github.com/tron1991/open-product-management) ⭐ 4,342 | 🐛 17 | 📅 2024-07-01 - Resources, interviews, case studies, sample products & projects, communities, open source tools, free & paid services on product management, for technical people to learn the field.
+* [Open Product Management](https://github.com/tron1991/open-product-management) ⭐ 4,344 | 🐛 17 | 📅 2024-07-01 - Resources, interviews, case studies, sample products & projects, communities, open source tools, free & paid services on product management, for technical people to learn the field.
 
-* [Awesome Product Management](https://github.com/dend/awesome-product-management) ⭐ 2,180 | 🐛 103 | 🌐 CSS | 📅 2026-02-08 - A reference. All the missing pieces are found below.
+* [Awesome Product Management](https://github.com/dend/awesome-product-management) ⭐ 2,182 | 🐛 104 | 🌐 CSS | 📅 2026-02-08 - A reference. All the missing pieces are found below.
 
 * “You're the broker for a lot of unstructured information and have to fend off all kinds of disruptive influences to land even close to where you're trying to go.” ([source](https://news.ycombinator.com/item?id=19050555))
 
@@ -1128,7 +1128,7 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ## Footnotes
 
-The [header image](https://github.com/kdeldycke/awesome-engineering-team-management/blob/main/assets/awesome-management-header.png) ⭐ 2,516 | 🐛 3 | 📅 2026-04-27 is based on a modified [photo taken in November 2017](https://unsplash.com/photos/6dDHofabCQ8) by [Werner Du plessis](https://unsplash.com/@werner01).
+The [header image](https://github.com/kdeldycke/awesome-engineering-team-management/blob/main/assets/awesome-management-header.png) ⭐ 2,517 | 🐛 3 | 📅 2026-04-27 is based on a modified [photo taken in November 2017](https://unsplash.com/photos/6dDHofabCQ8) by [Werner Du plessis](https://unsplash.com/@werner01).
 
 <!--lint disable no-undefined-references-->
 
